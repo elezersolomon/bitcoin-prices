@@ -5,7 +5,7 @@ const index = (props) => (
 <div>
 
     
-<h1>bitch coin</h1>
+<h1>bit coin</h1>
  
 <Prices  bpi={props.bpi}></Prices>
 </div>
